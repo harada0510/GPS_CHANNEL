@@ -32,6 +32,7 @@ waypointをプロットしたあとに，CSVに保存ボタンを押せば，プ
 
 # Input and the Output files
 | File | IN | OUT |
+----|----|----
 | 0_googleMap.py | |output.csv|
 |4 |5 |6 |
 
