@@ -36,12 +36,14 @@ waypointをプロットしたあとに，CSVに保存ボタンを押せば，プ
 
 
 
-# Input and the Output files
+# How to use
 環境：Python2.7（MacbookかLinuxならデフォルトで入ってる）
+実行方法：0_googleMap.htmlをブラウザで開いてwaypointを打ったあと，「CSVに保存」ボタン押してoutput.csvをダウンロード．
+<br>ダウンロードしたoutput.csvをディレクトリ「data」内に移し，'sh shell.sh'でシェルスクリプトを実行するか，以下の手順で実行する．
 
 | File | Execute |IN | OUT |
 ----|----|----|----
-|0_googleMap.py|python 0_googleMap.py||output.csv|
+|0_googleMap.html|上記||output.csv|
 |1_make_xy.py|python 1_make_xy.py|output.csv|xy.csv|
 |1_make_xy_WGS84.py|python 1_make_xy_WGS84.py|output.csv|xy_WGS84.csv|
 |2_offset.py|python 2_offset.py|xy.csv|xy_offseted.csv|
