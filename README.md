@@ -37,9 +37,9 @@ waypointをプロットしたあとに，CSVに保存ボタンを押せば，プ
 
 
 # How to use
-環境：Python2.7（MacbookかLinuxならデフォルトで入ってる）<br>
-実行方法：0_googleMap.htmlをブラウザで開いてwaypointを打ったあと，「CSVに保存」ボタン押してoutput.csvをダウンロード．
-<br>ダウンロードしたoutput.csvをディレクトリ「data」内に移し，'sh shell.sh'でシェルスクリプトを実行するか，以下の手順で実行する．
+#### 環境：Python2.7（MacbookかLinuxならデフォルトで入ってる）<br>
+#### 実行方法：0_googleMap.htmlをブラウザで開いてwaypointを打ったあと，「CSVに保存」ボタン押してoutput.csvをダウンロード．
+#### <br>ダウンロードしたoutput.csvをディレクトリ「data」内に移し，'sh shell.sh'でシェルスクリプトを実行するか，以下の手順で実行する．
 
 | File | Execute |IN | OUT |
 ----|----|----|----
