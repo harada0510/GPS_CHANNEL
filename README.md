@@ -18,7 +18,8 @@ waypointをプロットしたあとに，CSVに保存ボタンを押せば，プ
 
 ### 1_make_xy_WGS84.py
 とってきた緯度経度を平面座標に変換する（WGS84座標系）
-## 2_offset.py
+
+### 2_offset.py
 変換された平面座標（絶対座標のまま）をスタート地点を軸にした相対座標系に変換（平面直交座標系Ver）
 
 ### 2_offset_WGS84.py
@@ -29,7 +30,10 @@ waypointをプロットしたあとに，CSVに保存ボタンを押せば，プ
 <br>plot.pngとしてプロット図のスクショが自動で保存される．
 
 
-
+# Input and the Output files
+|  | IN | OUT |
+|0_googleMap.py| |3 |
+|4 |5 |6 |
 
 
 # Plane rectangular coordinate system
