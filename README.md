@@ -33,7 +33,7 @@ https://www.enri.go.jp/~fks442/K_MUSEN/1st/1st060428rev2.pdf
 # How to use
 
 ## 0_googleMap.html
-ここで，waypointをプロットしたあとに，　CSVに保存ボタンを押せば，　プロットしたwaypoint番号と緯度，経度が保存される
+ここで，waypointをプロットしたあとに，CSVに保存ボタンを押せば，プロットしたwaypoint番号と緯度，経度が保存される
 ## 1_make_xy.py
 
 ## 1_make_xy_WGS84.py
