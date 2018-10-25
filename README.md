@@ -1,6 +1,13 @@
 # FOR_RAHOK_SENSE
 Gift for Mr. Rahok
 
+# Licence
+CopyRight (c) 2018 Shuto Kawabata
+
+Released under the MIT licence
+
+https://opensource.org/licenses/MIT
+
 
 # How to use
 
@@ -10,3 +17,4 @@ Gift for Mr. Rahok
 ## 1_make_xy.py
 
 ## 1_make_xy_WGS84.py
+
