@@ -30,6 +30,12 @@ waypointをプロットしたあとに，CSVに保存ボタンを押せば，プ
 <br>plot.pngとしてプロット図のスクショが自動で保存される．
 
 
+### shell.sh
+以上に挙げたプログラムの実行を自動化してくれるシェルスクリプト．
+<br>output.csvの座標変換から（X,Y）の描写まで一貫してやってくれる．
+
+
+
 # Input and the Output files
 | File | IN | OUT |
 ----|----|----
