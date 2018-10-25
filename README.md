@@ -16,6 +16,7 @@ https://opensource.org/licenses/MIT
 # WGS84 plane coordinate xy
 #### X-->: West
 #### Y-->: South
+#### Z-->: Altitude
 
 
 
