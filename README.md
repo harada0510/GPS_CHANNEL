@@ -12,7 +12,7 @@ https://opensource.org/licenses/MIT
 ブラウザ上でプロットしたwaypointの緯度，経度を自動で取得し，CSVファイルに保存．<br>
 保存したファイルの緯度，経度をロボットの自律走行で扱うためのマップ（直交平面座標系）に変換するプログラム．<br>
 高専のときに用いていたWGS84座標系も同時に算出し，比較を行うプログラム．結果はこんな感じ( ^ω^ )
-<img src="https://github.com/shutokawabata0723/FOR_RAHOK_SENSE/blob/master/fig/kosen2.png" width="600px">
+<img src="https://github.com/shutokawabata0723/FOR_RAHOK_SENSE/blob/master/fig/kosen2.png" width="800px">
 
 
 
