@@ -10,14 +10,17 @@ https://opensource.org/licenses/MIT
 
 
 # Plane rectangular coordinate system
-#### X-->: North
-#### Y-->: East
+#### X's positive direction: North
+#### Y's positive direction: East
+#### Z's positive direction: Sky
+つまり今自分が立ってる頭の真上がZ方向で，北がX軸の正方向，東がY軸の正方向ってこと
 https://vldb.gsi.go.jp/sokuchi/surveycalc/surveycalc/algorithm/bl2xy/bl2xy.htm
 
 # WGS84 coordinate system
-#### X-->: West
-#### Y-->: South
-#### Z-->: Just above　(Altitude)
+#### X's positive direction: West
+#### Y's positive direction: South
+#### Z's positive direction: Earth's above
+正確にはこの図におけるXYZのこと↓
 https://www.enri.go.jp/~fks442/K_MUSEN/1st/1st060428rev2.pdf
 
 
