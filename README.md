@@ -9,7 +9,7 @@ Released under the MIT licence
 https://opensource.org/licenses/MIT
 
 # 内容
-ブラウザ上でプロットしたwaypointの緯度，経度を全自動で取得，CSVファイルに保存するHTML,JavaScriptのプログラム．<br>
+ブラウザ上でプロットしたwaypointの緯度，経度を全自動で取得，CSVファイルに保存するHTMLとJavaScript<br>
 保存したファイルの緯度，経度をロボットの自律走行で扱うためのマップ（直交平面座標系）に変換するプログラム．<br>
 高専のときに用いていたWGS84座標系も同時に算出し，比較を行うプログラム．
 <img src="https://github.com/shutokawabata0723/FOR_RAHOK_SENSE/blob/master/fig/gps_channel.png" width="900px">
