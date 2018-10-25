@@ -13,7 +13,7 @@ https://opensource.org/licenses/MIT
 保存したファイルの緯度，経度をロボットの自律走行で扱うためのマップ（直交平面座標系）に変換するプログラム．<br>
 高専のときに用いていたWGS84座標系も同時に算出し，比較を行うプログラム．
 <img src="https://github.com/shutokawabata0723/FOR_RAHOK_SENSE/blob/master/fig/gps_channel.png" width="900px">
-結果はこんな感じ( ^ω^ )
+結果はこんな感じ( ^ω^ )本来使うべき座標系が平面直交座標系であることがわかる．
 <img src="https://github.com/shutokawabata0723/FOR_RAHOK_SENSE/blob/master/fig/kosen2.png" width="900px">
 
 
