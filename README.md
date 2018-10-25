@@ -37,10 +37,16 @@ waypointをプロットしたあとに，CSVに保存ボタンを押せば，プ
 
 
 # Input and the Output files
-| File | IN | OUT |
-----|----|----
-| 0_googleMap.py | |output.csv|
-|4 |5 |6 |
+環境：Python2.7（MacbookかLinuxならデフォルトで入ってる）
+
+| File | Execute |IN | OUT |
+----|----|----|----
+|0_googleMap.py|python 0_googleMap.py||output.csv|
+|1_make_xy.py|python 1_make_xy.py|output.csv|xy.csv|
+|1_make_xy_WGS84.py|python 1_make_xy_WGS84.py|output.csv|xy_WGS84.csv|
+|2_offset.py|python 2_offset.py|xy.csv|xy_offseted.csv|
+|2_offset_WGS84.py|python 2_offset_WGS84.py|xy_WGS84.csv|xy_WGS84_offseted.csv|
+|3_plot.py|python 3_plot.py|xy_offseted.csv<br>xy_WGS84_offseted.csv|plot.png|
 
 
 # Plane rectangular coordinate system
