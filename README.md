@@ -53,7 +53,7 @@ waypointをプロットしたあとに，CSVに保存ボタンを押せば，プ
 
 
 # How to use
-下の写真をクリックしてね！
+ここをクリックしてね！↓
 <a href="https://youtu.be/VTSQOmzJR6w"><img src="https://github.com/shutokawabata0723/FOR_RAHOK_SENSE/blob/master/fig/youtube.png" width="900px"></a>
 
 
