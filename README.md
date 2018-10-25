@@ -8,6 +8,29 @@ Released under the MIT licence
 
 https://opensource.org/licenses/MIT
 
+# Program files
+## 0_googleMap.html
+waypointをプロットしたあとに，CSVに保存ボタンを押せば，プロットしたwaypoint番号と緯度，経度が保存される
+<br>あえてHTMLの中にJavaScriptを記述してるから，仕様を少しいじる程度であればそこをいじってね
+## 1_make_xy.py
+とってきた緯度経度を平面座標に変換する（平面直交座標系）
+ここのモジュール，pyprojを開いて見れば，普通はCかC++で書かれてるからちょっと解析すればそのままロボットの自己位置修正部分の座標変換式として移植できると思う．
+
+## 1_make_xy_WGS84.py
+とってきた緯度経度を平面座標に変換する（WGS84座標系）
+## 2_offset.py
+変換された平面座標（絶対座標のまま）をスタート地点を軸にした相対座標系に変換（平面直交座標系Ver）
+
+## 2_offset_WGS84.py
+変換された平面座標（絶対座標のまま）をスタート地点を軸にした相対座標系に変換（WGS84Ver）
+
+## 3_plot.py
+相対座標に変換された平面直交座標系とWGS84座標系の（X,Y)を描写する．　
+<br>plot.pngとしてプロット図のスクショが自動で保存される．
+
+
+
+
 
 # Plane rectangular coordinate system
 #### X's positive direction: North
