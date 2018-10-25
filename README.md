@@ -15,7 +15,7 @@ https://opensource.org/licenses/MIT
 #### Z's positive direction: Sky
 つまり今自分が立ってる頭の真上がZ方向で，北がX軸の正方向，東がY軸の正方向ってこと（一番直感的にわかると思う）
 https://vldb.gsi.go.jp/sokuchi/surveycalc/surveycalc/algorithm/bl2xy/bl2xy.htm
-本来，使うべき座標系！！！
+本来，使うべきだった座標系！！！
 <br>これで作ったマップとこれで変換した自己位置情報(X,Y)を使えば，　当時の移動ロボットの自己位置修正プログラムにそのまま移植するだけで格段に精度がよくなる（はず）．
 
 # WGS84 coordinate system
@@ -33,8 +33,7 @@ https://www.enri.go.jp/~fks442/K_MUSEN/1st/1st060428rev2.pdf
 # How to use
 
 ## 0_googleMap.html
-
-
+ここで，　waypoint　をプロットしたあとに，　CSVに保存ボタンを押せば，　プロットしたwaypoint 番号と緯度，　経度　が保存される
 ## 1_make_xy.py
 
 ## 1_make_xy_WGS84.py
