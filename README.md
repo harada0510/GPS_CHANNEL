@@ -9,6 +9,16 @@ Released under the MIT licence
 https://opensource.org/licenses/MIT
 
 
+# plane coordinate xy
+#### X-->: North
+#### Y-->: East
+
+# WGS84 coordinate xy
+#### X-->: West
+#### Y-->: South
+
+
+
 # How to use
 
 ## 0_googleMap.html
