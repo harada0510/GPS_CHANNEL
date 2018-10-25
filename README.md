@@ -15,6 +15,7 @@ https://opensource.org/licenses/MIT
 #### Z's positive direction: Sky
 つまり今自分が立ってる頭の真上がZ方向で，北がX軸の正方向，東がY軸の正方向ってこと（一番直感的にわかると思う）
 https://vldb.gsi.go.jp/sokuchi/surveycalc/surveycalc/algorithm/bl2xy/bl2xy.htm
+本来，使うべき座標系！！！
 
 # WGS84 coordinate system
 #### X's positive direction: West
