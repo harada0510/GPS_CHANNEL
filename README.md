@@ -9,15 +9,16 @@ Released under the MIT licence
 https://opensource.org/licenses/MIT
 
 
-# True plane coordinate xy
+# Plane rectangular coordinate system
 #### X-->: North
 #### Y-->: East
+https://vldb.gsi.go.jp/sokuchi/surveycalc/surveycalc/algorithm/bl2xy/bl2xy.htm
 
-# WGS84 plane coordinate xy
+# WGS84 coordinate system
 #### X-->: West
 #### Y-->: South
 #### Z-->: Just above　(Altitude)
-
+https://www.enri.go.jp/~fks442/K_MUSEN/1st/1st060428rev2.pdf
 
 
 # How to use
