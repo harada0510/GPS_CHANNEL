@@ -9,11 +9,11 @@ Released under the MIT licence
 https://opensource.org/licenses/MIT
 
 
-# plane coordinate xy
+# True plane coordinate xy
 #### X-->: North
 #### Y-->: East
 
-# WGS84 coordinate xy
+# WGS84 plane coordinate xy
 #### X-->: West
 #### Y-->: South
 
