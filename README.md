@@ -61,7 +61,8 @@ waypointをプロットしたあとに，CSVに保存ボタンを押せば，プ
 |1_make_xy_WGS84.py|python 1_make_xy_WGS84.py|output.csv|xy_WGS84.csv|
 |2_offset.py|python 2_offset.py|xy.csv|xy_offseted.csv|
 |2_offset_WGS84.py|python 2_offset_WGS84.py|xy_WGS84.csv|xy_WGS84_offseted.csv|
-|3_plot.py|python 3_plot.py|xy_offseted.csv<br>xy_WGS84_offseted.csv|plot.png|
+|3_rptate.py|python 3_rotate.py|xy_offseted.csv<br>xy_WGS84_offseted.csv|xy_rotated.csv<br>xy_WGS84_rotated.csv|
+|3_plot.py|python 3_plot.py|xy_rotated.csv<br>xy_WGS84_rotated.csv|plot.png|
 
 
 # Plane rectangular coordinate system
