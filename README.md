@@ -53,7 +53,7 @@ waypointをプロットしたあとに，CSVに保存ボタンを押せば，プ
 で座標変換モジュールpyprojをインストール
 
 #### 実行方法：0_googleMap.htmlをブラウザで開いてwaypointを打ったあと，「CSVに保存」ボタン押してoutput.csvをダウンロード．
-#### ダウンロードしたoutput.csvをディレクトリ「data」内に移し，'sh shell.sh'でシェルスクリプトを実行するか，以下の手順で実行する．
+#### ダウンロードしたoutput.csvをディレクトリ「data」内に移し，```sh shell.sh```でシェルスクリプトを実行するか，以下の手順で実行する．
 
 | File | Execute |IN | OUT |
 ----|----|----|----
