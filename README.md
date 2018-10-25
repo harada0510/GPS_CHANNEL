@@ -20,7 +20,7 @@ https://vldb.gsi.go.jp/sokuchi/surveycalc/surveycalc/algorithm/bl2xy/bl2xy.htm
 #### X's positive direction: West
 #### Y's positive direction: South
 #### Z's positive direction: Earth's above
-正確にはこの図におけるXYZのこと↓
+正確にはこの図におけるXYZのこと↓（実際には東西南北で示せない）<br>
 https://www.enri.go.jp/~fks442/K_MUSEN/1st/1st060428rev2.pdf
 
 
