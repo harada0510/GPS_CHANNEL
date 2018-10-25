@@ -53,7 +53,8 @@ waypointをプロットしたあとに，CSVに保存ボタンを押せば，プ
 
 
 # How to use
-https://studio.youtube.com/video/VTSQOmzJR6w/edit
+<a href="https://youtu.be/VTSQOmzJR6w">ここ</a>
+
 
 #### 環境：Python2.7（MacbookかLinuxならデフォルトで入ってる）
 ```pip install pyproj```
