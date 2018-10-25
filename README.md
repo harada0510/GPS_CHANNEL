@@ -48,7 +48,7 @@ waypointをプロットしたあとに，CSVに保存ボタンを押せば，プ
 
 # How to use
 #### 環境：Python2.7（MacbookかLinuxならデフォルトで入ってる）
-'pip install pyproj'
+```pip install pyproj```
 
 で座標変換モジュールpyprojをインストール
 
