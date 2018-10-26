@@ -56,7 +56,7 @@ waypointをプロットしたあとに，CSVに保存ボタンを押せば，プ
 
 # How to use
 ここをクリックしてね！↓
-<a href="https://youtu.be/TU-1X-gPXJg"><img src="https://github.com/shutokawabata0723/FOR_RAHOK_SENSE/blob/master/fig/youtube.png" width="900px"></a>
+<!--<a href="https://youtu.be/TU-1X-gPXJg"><img src="https://github.com/shutokawabata0723/FOR_RAHOK_SENSE/blob/master/fig/youtube.png" width="900px"></a>-->
 
 
 #### 環境：Python2.7（MacbookかLinuxならデフォルトで入ってる）
