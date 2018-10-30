@@ -11,7 +11,8 @@ https://opensource.org/licenses/MIT
 # 内容
 ブラウザ上でプロットしたwaypointの緯度，経度を全自動で取得，CSVファイルに保存するHTMLとJavaScript<br>
 保存したファイルの緯度，経度をロボットの自律走行で扱うためのマップ（直交平面座標系）に変換するプログラム．<br>
-高専のときに用いていたWGS84座標系も同時に算出し，比較を行うプログラム．
+高専のときに用いていたWGS84座標系も同時に算出し，比較を行うプログラム．<br>
+GoogleMaps JavaScript API 使えば，　「For development purpose only」消えるけど，無料だと１日で使える回数決まってるので，課金する場合はAPIおすすめ．
 <img src="https://github.com/shutokawabata0723/FOR_RAHOK_SENSE/blob/master/fig/gps_channel.png" width="900px">
 結果はこんな感じ( ^ω^ )本来使うべき座標系が平面直交座標系であることがわかる．
 <img src="https://github.com/shutokawabata0723/FOR_RAHOK_SENSE/blob/master/fig/kosen2.png" width="900px">
